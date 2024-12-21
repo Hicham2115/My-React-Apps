@@ -84,8 +84,7 @@ As I continue my React journey, my goals include:
 Feel free to reach out if you have any questions, suggestions, or if you’d like to collaborate on any React projects!
 
 - **GitHub**: https://github.com/Hicham2115
-- **LinkedIn**: https://www.linkedin.com/in/hicham
+- **LinkedIn**: https://www.linkedin.com/in/hicham-kamani-0313ab32a/
 
 ---
 
-This is just a starting point. You can add more project details, challenges you faced, and personal insights as you continue working on your React projects! Let me know if you want to tweak it further! 😊
