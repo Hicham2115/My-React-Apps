@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+.about .uniqueh1 {
+  font-family: "Pacifico", cursive;
+  margin-left: 700px;
+  margin-top: -310px;
+  color: #ffa217;
+}
+hr {
+  width: 5%;
+  margin-left: 840px;
+  margin-top: -45px;
+  z-index: 6;
+  border: 1.5px solid #ffa217;
+}
+.pics {
+  display: grid;
+  grid-template-columns: 100px 100px;
+  grid-template-rows: 100px 100px;
+  gap: 120px;
+  margin-left: 150px;
+  margin-top: 150px;
+}
+.pics img {
+  width: 200px;
+}
+.pics .about-1 {
+  width: 250px;
+  margin-left: -50px;
+  margin-top: -50px;
+}
+.pics .about-3 {
+  width: 170px;
+  margin-left: 30px;
+  margin-top: -10px;
+}
+.pics .about-4 {
+  width: 250px;
+}
+.welcome-mssg {
+  margin-left: 700px;
+  font-size: 45px;
+}
+.about .img-fork img {
+  width: 60px;
+  margin-bottom: -10px;
+}
+.about p {
+  margin-left: 700px;
+  width: 500px;
+}
+.exp .fifteen {
+  margin-left: 730px;
+  color: #ffa217;
+  font-size: 60px;
+}
+.exp .years {
+  margin-left: 820px;
+  margin-top: -95px;
+  width: 100px;
+  font-size: large;
+}
+.span-year {
+  color: #aaacac;
+}
+.exp .fifty {
+  margin-left: 1000px;
+  color: #ffa217;
+  font-size: 60px;
+  margin-top: -75px;
+}
+
+.exp .popular {
+  margin-left: 1100px;
+  margin-top: -95px;
+  width: 110px;
+  font-size: large;
+}
+.span-popular {
+  color: #aaacac;
+}
+.exp button {
+  background-color: #ffa217;
+  color: white;
+  padding: 20px 20px;
+  width: 180px;
+  border: none;
+  font-size: large;
+  cursor: pointer;
+  transition: 0.5s ease;
+  margin-left: 700px;
+  margin-top: 30px;
+  border-radius: 3px;
+}
+.exp button:hover {
+  background-color: #b36e05;
+}

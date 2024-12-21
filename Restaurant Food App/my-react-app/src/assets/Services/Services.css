@@ -1,0 +1,46 @@
+.services {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+
+.services i {
+  font-size: 50px;
+  color: #ffa217;
+  margin-top: 20px;
+  margin-left: 20px;
+  transition: 0.5s ease;
+}
+.services h2 {
+  margin-left: 20px;
+  transition: 0.5s ease;
+}
+.service p {
+  width: 200px;
+  margin-left: 20px;
+  transition: 0.5s ease;
+}
+.service {
+  background-color: white;
+  width: 300px;
+  border-radius: 10px;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+.service:hover {
+  background-color: #ffa217;
+}
+.service:hover i {
+  color: white;
+}
+.service:hover h2 {
+  color: white;
+}
+.service:hover p {
+  color: white;
+}
+@media (max-width: 768px) {
+  .services {
+    margin-left: 50px;
+  }
+}

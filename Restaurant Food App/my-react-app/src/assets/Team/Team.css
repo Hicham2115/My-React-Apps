@@ -1,0 +1,63 @@
+.Team .teamh1 {
+  color: #ffa217;
+  font-family: "Pacifico", cursive;
+  margin-top: 130px;
+  text-align: center;
+}
+.hr100 {
+  margin-left: 450px;
+}
+.hr200 {
+  margin-left: 750px;
+  margin-top: -10px;
+}
+.Team .masterh1 {
+  text-align: center;
+  font-size: 40px;
+}
+.multy-imgs {
+  display: flex;
+  justify-content: space-evenly;
+  height: 375px;
+  transition: transform 0.3s ease;
+}
+.multy-imgs img {
+  width: 200px;
+  border-radius: 100px;
+  transition: transform 0.3s ease;
+}
+.singleimage1,
+.singleimage2,
+.singleimage3,
+.singleimage4 {
+  background-color: white;
+  padding: 20px 20px;
+  border-radius: 10px;
+  transition: 1s ease;
+  cursor: pointer;
+}
+
+.multy-imgs h2 {
+  text-align: center;
+}
+.multy-imgs h4 {
+  text-align: center;
+  font-weight: 400;
+}
+.multy-imgs i {
+  color: #ffa217;
+  background-color: black;
+  padding: 10px 10px;
+  border-radius: 20px 20px 0px 0px;
+  height: 20px;
+  margin-bottom: -20px;
+  margin-left: 15px;
+  width: 25px;
+  cursor: pointer;
+  transition: 0.5s ease;
+  text-align: center;
+}
+.multy-imgs i:hover {
+  background-color: black;
+  color: white;
+}

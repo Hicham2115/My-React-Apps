@@ -1,0 +1,63 @@
+.container {
+  text-align: center;
+}
+.to-do-list {
+  color: white;
+}
+.input {
+  height: 35px;
+  width: 240px;
+  border-radius: 7px;
+  border: 1px solid black;
+}
+.add-button {
+  background-color: green;
+  color: white;
+  width: 60px;
+  height: 40px;
+  border-radius: 7px;
+  border: 1px solid black;
+  font-weight: bolder;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.Task-list {
+  list-style: none;
+  color: white;
+  font-size: x-large;
+  font-weight: bolder;
+}
+.Task-list li {
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  background-color: whitesmoke;
+  color: black;
+  margin-bottom: 10px;
+  flex: 1;
+  padding: 10px 10px;
+  gap: 20px;
+  border-radius: 7px;
+}
+button {
+  cursor: pointer;
+  font-weight: bold;
+}
+.delete-button {
+  background-color: red;
+  color: white;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+.moveup-button {
+  background-color: green;
+  color: white;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+.movedown-button {
+  background-color: green;
+  color: white;
+  border: 1px solid black;
+  border-radius: 3px;
+}

@@ -1,0 +1,122 @@
+.Cards {
+  display: flex;
+  gap: 30px;
+  margin-left: 150px;
+}
+.Cards img {
+  width: 300px;
+  border-radius: 10px;
+  cursor: pointer;
+  z-index: 1;
+}
+.welcome {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.welcome h4 {
+  color: #222ea1;
+}
+.overlay1 {
+  background: url("program-1.png");
+  background-size: cover;
+  z-index: 2;
+  height: 300px;
+  border-radius: 10px;
+  width: 300px;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+.overlay1:hover {
+  background: linear-gradient(rgba(0, 15, 152, 0.3), rgba(0, 15, 152, 0.3)),
+    url("program-1.png");
+  background-size: cover;
+  z-index: 2;
+  height: 300px;
+  border-radius: 10px;
+  width: 300px;
+}
+.overlay2 {
+  background: url("program-2.png");
+  background-size: cover;
+  z-index: 2;
+  height: 300px;
+  border-radius: 10px;
+  width: 300px;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+.overlay2:hover {
+  background: linear-gradient(rgba(0, 15, 152, 0.3), rgba(0, 15, 152, 0.3)),
+    url("program-2.png");
+  background-size: cover;
+  z-index: 2;
+  height: 300px;
+  border-radius: 10px;
+  width: 300px;
+}
+.overlay3 {
+  background: url("program-3.png");
+  background-size: cover;
+  z-index: 2;
+  height: 300px;
+  border-radius: 10px;
+  width: 300px;
+  cursor: pointer;
+  transition: 1s ease;
+}
+
+.overlay3:hover {
+  background: linear-gradient(rgba(0, 15, 152, 0.3), rgba(0, 15, 152, 0.3)),
+    url("program-3.png");
+  background-size: cover;
+  z-index: 2;
+  height: 300px;
+  border-radius: 10px;
+  width: 300px;
+  opacity: 1;
+}
+
+.overlay1 .secondepic1,
+.overlay2 .secondepic2,
+.overlay3 .secondepic3 {
+  width: 80px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 120px;
+  margin-top: 120px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px);
+  transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+.overlay1:hover .secondepic1,
+.overlay2:hover .secondepic2,
+.overlay3:hover .secondepic3 {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.para {
+  color: white;
+  margin-top: 255px;
+  margin-left: 100px;
+  font-weight: bold;
+  opacity: 0;
+  visibility: hidden;
+  position: relative;
+  top: 20px;
+  transition: top 0.5s ease, opacity 0.5s ease;
+}
+
+.overlay1:hover .para,
+.overlay2:hover .para,
+.overlay3:hover .para {
+  opacity: 1;
+  visibility: visible;
+  top: 0;
+}

@@ -1,0 +1,146 @@
+.Reservation {
+  background-color: #0f172b;
+  margin-top: 100px;
+  height: 600px;
+}
+.Reservation i {
+  background-color: #ffa217;
+  padding-left: 7px;
+  color: #0f172b;
+  font-size: 100px;
+  position: relative;
+  left: -420px;
+  top: -200px;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 0 15px rgba(255, 87, 34, 0.5);
+  animation: pulse 1.5s infinite;
+  transition: transform 0.2s ease;
+}
+
+.Reservation i:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 20px rgba(255, 87, 34, 0.8);
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 10px rgba(255, 87, 34, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(255, 87, 34, 0.8);
+  }
+  100% {
+    box-shadow: 0 0 10px rgba(255, 87, 34, 0.5);
+  }
+}
+.Reservation .h1res {
+  font-family: "Pacifico", cursive;
+  color: #ffa217;
+  position: relative;
+  margin-left: 730px;
+  top: -510px;
+}
+.hr9 {
+  margin-top: -40px;
+}
+.Reservation .bookh1 {
+  color: white;
+  /* position: relative;
+  left: 730px;
+  top: -430px; */
+  margin-left: 730px;
+  margin-top: -530px;
+  font-size: 40px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+form .Name {
+  margin-left: 730px;
+  width: 230px;
+  height: 50px;
+  padding-left: 10px;
+}
+form .Email {
+  margin-left: 1000px;
+  margin-top: -55px;
+  width: 230px;
+  height: 50px;
+  padding-left: 10px;
+}
+form .datetime {
+  margin-left: 730px;
+  margin-top: -20px;
+  width: 230px;
+  height: 50px;
+  padding-left: 10px;
+}
+form .select {
+  margin-left: 1000px;
+  margin-top: -55px;
+  width: 250px;
+  height: 55px;
+  padding-left: 10px;
+}
+form .label {
+  margin-left: 730px;
+  margin-top: 20px;
+  color: white;
+  height: 50px;
+  padding-left: 10px;
+}
+form .label1 {
+  color: white;
+  width: 230px;
+  height: 50px;
+  padding-left: 10px;
+}
+form .textarea {
+  margin-left: 720px;
+  color: black;
+  width: 520px;
+  height: 100px;
+  padding-left: 10px;
+  margin-top: -20px;
+}
+form .label2 {
+  margin-left: 720px;
+  margin-top: 20px;
+  color: white;
+  width: 230px;
+  height: 50px;
+  padding-left: 10px;
+}
+form button {
+  margin-left: 720px;
+  margin-top: 20px;
+  background-color: #ffa217;
+  color: white;
+  padding: 10px 10px;
+  width: 530px;
+  height: 60px;
+  border: none;
+  border-radius: 5px;
+  font-size: large;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+form button:hover {
+  background-color: #b36e05;
+}
+.video {
+  width: 800px;
+  z-index: 100;
+  position: fixed;
+  left: 250px;
+  top: 50px;
+  border: 2px solid white;
+  visibility: hidden;
+}
+/* @media (max-width: 1024px) {
+  .Reservation {
+    width: 1350px;
+  }
+} */

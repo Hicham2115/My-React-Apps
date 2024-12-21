@@ -1,0 +1,95 @@
+.NavBar {
+  display: flex;
+  gap: 50px;
+}
+.logo {
+  width: 180px;
+  margin-left: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  cursor: pointer;
+  margin-top: 15px;
+}
+.NavBar li {
+  list-style: none;
+  color: white;
+  position: relative;
+  left: 440px;
+  top: -40px;
+  cursor: pointer;
+}
+.NavBar button {
+  background-color: white;
+  color: black;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 50px;
+  width: 120px;
+  height: 50px;
+  margin-top: -20px;
+  text-align: center;
+  font-size: medium;
+  margin-left: -20px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.NavBar .li:hover {
+  border-bottom: 2px solid rgba(8, 0, 58, 0.7);
+}
+.NavBar button:hover {
+  background: linear-gradient(rgba(8, 0, 58, 0.7), rgba(8, 0, 58, 0.7));
+  color: white;
+}
+.header-container h1 {
+  color: white;
+  position: absolute;
+  font-size: 60px;
+  text-wrap: nowrap;
+  top: 130px;
+  left: 250px;
+}
+.header-container .for {
+  color: white;
+  position: absolute;
+  font-size: 60px;
+  text-wrap: nowrap;
+  top: 200px;
+  left: 380px;
+}
+.header-container p {
+  color: white;
+  position: absolute;
+  top: 310px;
+  left: 260px;
+  font-size: large;
+}
+.header-container .ptwo {
+  color: white;
+  position: absolute;
+  top: 340px;
+  left: 370px;
+  font-size: large;
+}
+.explore {
+  background-color: white;
+  color: black;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 50px;
+  width: 180px;
+  height: 50px;
+  margin-top: -20px;
+  text-align: center;
+  font-size: medium;
+  margin-left: -20px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  position: absolute;
+  top: 430px;
+  left: 550px;
+}
+.explore:hover {
+  background-color: rgba(8, 0, 58, 0.7);
+  color: white;
+}

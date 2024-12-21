@@ -1,0 +1,99 @@
+.Contact h3 {
+  color: #222ea1;
+  text-align: center;
+}
+.Contact h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.Contact-info {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin-left: 150px;
+}
+.Contact-info img {
+  width: 40px;
+}
+.Contact-info .msg-icon {
+  margin-left: 220px;
+  margin-top: -55px;
+}
+.Contact-info .mail-icon {
+  width: 30px;
+}
+.Contact-info .phone-icon {
+  width: 30px;
+}
+.Contact-info .location-icon {
+  width: 30px;
+}
+.Contact-info .para1 {
+  margin-left: 50px;
+  margin-top: -25px;
+  font-size: large;
+}
+.Contact-info .para2 {
+  margin-left: 50px;
+  margin-top: -30px;
+  font-size: large;
+}
+.Contact-info .para3 {
+  margin-left: 50px;
+  margin-top: -30px;
+  font-size: large;
+}
+Form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin-left: 650px;
+  margin-top: -250px;
+}
+Form label {
+  margin-bottom: 10px;
+}
+Form input {
+  margin-bottom: 10px;
+  height: 50px;
+  background-color: #edeeff;
+  border: none;
+  border-radius: 5px;
+  text-indent: 10px;
+}
+Form textarea {
+  height: 130px;
+  background-color: #edeeff;
+  border: none;
+  text-align: left;
+  border-radius: 5px;
+  padding-top: 20px;
+  text-indent: 20px;
+}
+.Captcha {
+  margin-left: 650px;
+  margin-top: 20px;
+}
+.submit-btn {
+  background-color: #222ea1;
+  color: white;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 50px;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  font-size: medium;
+  margin-left: 650px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+.submit-btn:hover {
+  background-color: rgb(2, 1, 70);
+}
+.hr {
+  border: 1px solid black;
+  margin-top: 50px;
+  width: 80%;
+}

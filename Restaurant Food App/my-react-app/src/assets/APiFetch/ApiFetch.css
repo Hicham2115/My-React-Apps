@@ -1,0 +1,71 @@
+.item0,
+.item1,
+.item2,
+.item3 {
+  font-size: x-large;
+  margin-left: 200px;
+  color: #ffa217;
+}
+.img0,
+.img1,
+.img2,
+.img3 {
+  display: flex;
+  position: relative;
+  top: -1150px;
+  left: 60px;
+  width: 100px;
+  margin-top: 75px;
+  background-color: #ffa217;
+  border-radius: 50px;
+  padding: 7px 7px;
+  cursor: pointer;
+}
+.Fetch {
+  background-color: #192239;
+  width: 1240px;
+  margin-left: 10px;
+  border-radius: 10px;
+  height: 600px;
+}
+#h1s {
+  padding-top: 50px;
+  margin-top: 35px;
+  cursor: pointer;
+}
+.para {
+  color: white;
+  font-weight: 300;
+  font-size: medium;
+  font-style: italic;
+}
+.price {
+  margin-left: 350px;
+  margin-top: -50px;
+}
+.item4,
+.item5,
+.item6,
+.item7 {
+  font-size: x-large;
+  margin-left: 810px;
+  color: #ffa217;
+  position: relative;
+  top: -570px;
+  cursor: pointer;
+}
+.img4,
+.img5,
+.img6,
+.img7 {
+  display: flex;
+  position: relative;
+  top: -1750px;
+  left: 650px;
+  width: 100px;
+  margin-top: 75px;
+  background-color: #ffa217;
+  border-radius: 50px;
+  padding: 7px 7px;
+  cursor: pointer;
+}
