@@ -1,0 +1,17 @@
+.Card {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  width: 150px;
+  height: 150px;
+  box-shadow: -1px 1px 55px -4px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 1px 55px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 55px -4px rgba(0, 0, 0, 0.75);
+  text-align: center;
+  margin-top: 20px;
+}
+
+@media (max-width: 1440px) {
+  .Card {
+    margin-top: 200px;
+  }
+}

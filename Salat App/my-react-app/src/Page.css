@@ -1,0 +1,205 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url("img5.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.Cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  justify-items: center;
+}
+.header {
+  color: #febd6b;
+}
+.header .Cairo {
+  font-size: 80px;
+  margin-left: 50px;
+}
+.header .Date {
+  margin-left: 50px;
+}
+.header .Date1 {
+  margin-left: 50px;
+  margin-top: -50px;
+}
+.header .Time {
+  display: flex;
+  justify-content: end;
+  margin-right: 150px;
+  font-size: 100px;
+  margin-top: -220px;
+}
+.LastOne {
+  display: flex;
+  justify-content: end;
+  margin-right: 150px;
+  margin-top: -5px;
+}
+.LastOne1 {
+  display: flex;
+  justify-content: end;
+  margin-right: 200px;
+  margin-top: -50px;
+}
+.select {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+select {
+  background-color: rgba(27, 25, 25, 0.5);
+  height: 50px;
+  width: 250px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bolder;
+}
+.select option {
+  background-color: rgb(53, 53, 53);
+}
+label {
+  font-size: 30px;
+  font-weight: bolder;
+  color: whitesmoke;
+  margin-right: 20px;
+}
+.Cities {
+  font-size: 30px;
+  font-weight: bolder;
+  color: whitesmoke;
+  margin-left: 350px;
+  margin-top: -50px;
+}
+.Cities option {
+  background-color: rgb(53, 53, 53);
+}
+
+@media (max-width: 1440px) {
+  .header {
+    margin-top: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header .Time {
+    font-size: 80px;
+    display: flex;
+    justify-content: end;
+    margin-right: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .LastOne {
+    display: flex;
+    justify-content: end;
+    margin-right: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .LastOne1 {
+    display: flex;
+    justify-content: end;
+    margin-right: 70px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header .Cairo {
+    font-size: 80px;
+    position: relative;
+    top: -40px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header .Date1 {
+    margin-top: -70px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header .Date {
+    margin-top: -10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .hr {
+    margin-top: 70px;
+  }
+}
+
+@media (max-width: 768px) {
+  .Cards {
+    padding: 30px;
+    gap: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .select {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 426px) {
+  .header .Cairo {
+    font-size: 40px;
+    position: relative;
+    top: -70px;
+  }
+}
+
+@media (max-width: 426px) {
+  .header .Time {
+    font-size: 40px;
+    display: flex;
+    justify-content: end;
+    margin-right: -100px;
+    margin-top: -160px;
+  }
+}
+
+@media (max-width: 426px) {
+  .LastOne1 {
+    display: flex;
+    justify-content: end;
+    margin-right: -100px;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 426px) {
+  .LastOne {
+    display: flex;
+    justify-content: end;
+    margin-right: -100px;
+  }
+}
+
+@media (max-width: 426px) {
+  .hr {
+    margin-top: 70px;
+    width: 128%;
+  }
+}
+
+@media (max-width: 426px) {
+  .Cards {
+    padding: 30px 20px;
+    gap: 10px;
+  }
+}
+
+@media (max-width: 320px) {
+  .hr {
+    margin-top: 70px;
+    width: 170%;
+  }
+}
