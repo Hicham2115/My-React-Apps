@@ -1,0 +1,118 @@
+body {
+  background-color: #fafafa;
+}
+/* Style the main scrollbar */
+::-webkit-scrollbar {
+  width: 15px;
+  height: 12px;
+}
+
+/* Style the scrollbar track (background) */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+/* Style the scrollbar thumb (the moving part) */
+::-webkit-scrollbar-thumb {
+  background: #3b63f5;
+  border-radius: 10px;
+  border: 3px solid #f1f1f1;
+}
+
+/* Style the scrollbar thumb on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #3b63f5;
+}
+
+/* Style the scrollbar corner (between vertical and horizontal scrollbars) */
+::-webkit-scrollbar-corner {
+  background: #f1f1f1;
+}
+.logo {
+  margin-left: 80px;
+  margin-top: -40px;
+  cursor: pointer;
+}
+/* .navbar {
+  margin-left: 450px;
+  margin-top: -110px;
+} */
+#ul {
+  padding-right: 40px;
+}
+.Find {
+  margin-left: 70px;
+  margin-top: 100px;
+  font-size: 50px;
+}
+.Find span {
+  color: #3b63f5;
+}
+.Thousands {
+  font-size: medium;
+  margin-left: 70px;
+  color: grey;
+  margin-top: 10px;
+}
+#input {
+  margin-left: 35px;
+  padding-left: 40px;
+  background-color: transparent;
+}
+#input2 {
+  margin-left: 601px;
+  padding-left: 40px;
+  position: relative;
+  top: -72px;
+  background-color: transparent;
+}
+#input1 {
+  width: 85%;
+  padding: 3px;
+}
+.input-group-text {
+  position: relative;
+  left: 69.7px;
+}
+.bx-search-alt-2 {
+  position: relative;
+  left: 70px;
+  top: 10px;
+  color: grey;
+  font-size: larger;
+  z-index: 2;
+}
+.bx-location-plus {
+  position: relative;
+  left: 630px;
+  top: -60px;
+  color: grey;
+  font-size: larger;
+  z-index: 2;
+}
+#search {
+  margin-left: 1085px;
+  width: 10%;
+  margin-top: -250px;
+  border-radius: 0px 7px 7px 0px;
+  background-color: #3b63f5;
+  transition: 0.5s ease;
+}
+#search:hover {
+  background-color: rgb(4, 65, 186);
+}
+.user {
+  margin-left: 550px;
+  margin-top: -40px;
+  display: flex;
+  gap: 10px;
+}
+.user p {
+  cursor: pointer;
+}
+.info p {
+  position: relative;
+  top: 7px;
+  right: 10px;
+}

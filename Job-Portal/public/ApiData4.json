@@ -1,0 +1,294 @@
+{
+  "mean": 68636.18,
+  "count": 6344841,
+  "results": [
+    {
+      "latitude": 42.297912,
+      "title": "Utilization Review LPN",
+      "redirect_url": "https://www.adzuna.com/details/5015195898?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "0",
+      "created": "2025-01-17T21:40:41Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 39000,
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "area": ["US", "Illinois", "Winnebago County", "Rockford"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Rockford, Winnebago County"
+      },
+      "id": "5015195898",
+      "description": "Description: LPNs – are you looking for a change? Want to work no nights, no weekends, and no holidays? Be able to work from home 50% of the time once trained? Check out Hines & Associates ABOUT US: Hines is a nationwide, independent leader in personalized managed health care, focused on what's important to you—comprehensive services with the program excellence and cost containment that you demand. Hines & Associates, Inc.'s reputation as an industry leader is founded on over three decades of i…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hines & Associates Inc"
+      },
+      "longitude": -89.127617,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnFqOTY1alY3eEdNNVBEd0YzN2pZUSIsImkiOiI1MDE1MTk1ODk4In0.U0BQsXlxKVJnp-Fnn4fjABVpyU805J-Ohb0zqS2IuCU",
+      "salary_max": 43000
+    },
+    {
+      "id": "4961656061",
+      "location": {
+        "display_name": "Menlo Park, Middlesex County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "New Jersey", "Middlesex County", "Menlo Park"]
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 80668.57,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Progressive Spine & Orthopaedics, LLC"
+      },
+      "salary_is_predicted": "1",
+      "title": "Nurse Practitioner",
+      "latitude": 40.57581,
+      "salary_min": 80668.57,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk2MTY1NjA2MSIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.BAFIaCdNYH28f09XYNHaDqcf5oxV2ebzC5WFyo1suhI",
+      "longitude": -74.3658,
+      "description": "Nurse Practitioner - Edison, NJ Are you a compassionate and skilled Nurse Practitioner eager to make a difference in the lives of patients? We’re thrilled to announce an exciting opportunity for a Nurse Practitioner specializing in orthopaedics to join our welcoming team in Edison, NJ. If you’re looking for a place where your expertise will be valued and your contributions celebrated, look no further Since our founding in 2011, we have dedicated ourselves to providing exceptional care throughou…",
+      "redirect_url": "https://www.adzuna.com/details/4961656061?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "full_time",
+      "created": "2024-12-03T17:29:36Z"
+    },
+    {
+      "salary_min": 41600,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnFqOTY1alY3eEdNNVBEd0YzN2pZUSIsImkiOiI0OTYxNjU2NDgzIn0.jGQwaTBzMaZuL1vCfitcyC_D18t91YojW2IgC1LkhBs",
+      "longitude": -105.007314,
+      "description": "OnPoint Medical Group is searching for an outstanding Medical Assistant to join our team at South Denver OBGYN Come join a great group of medical professionals as our network continues to grow OnPoint Medical Group is a physician-led network of skilled Primary and Urgent care providers who are committed to expanding access to quality healthcare in the most effective and affordable manner possible. Our \"Circle of Care\" has one primary goal – to ensure the health and wellness of members and their…",
+      "redirect_url": "https://www.adzuna.com/details/4961656483?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "full_time",
+      "created": "2024-12-03T17:29:39Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Littleton, Arapahoe County",
+        "area": ["US", "Colorado", "Arapahoe County", "Littleton"]
+      },
+      "id": "4961656483",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "salary_max": 54080,
+      "company": {
+        "display_name": "OnPoint Medical Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 39.599898,
+      "title": "Medical Assistant - South Denver OBGYN",
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 156674.77,
+      "id": "4996720402",
+      "location": {
+        "area": ["US", "Michigan", "Lapeer County", "Lake Nepessing"],
+        "display_name": "Lake Nepessing, Lapeer County",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "VitalCore Health Strategies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Join the VitalCore Team in Michigan We’re people fueled by passion, not by profit VitalCore Health Strategies, an industry leader in Correctional Health Care, has an opening for a staff P hysician (M.D. or D.O.) at Thumb Correctional Facility in Lapeer, Michigan View our opportunities at: https://vitalcorehs.com/careers PHYSICIAN (M.D. / D.O.) BENEFITS PACKAGE TO INCLUDE BUT NOT LIMITED TO: Holiday Pay : New Year’s Day, Martin Luther King Jr. Day, Memorial Day, Juneteenth, Independence Day, Lab…",
+      "salary_max": 156674.77,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5NjcyMDQwMiIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.-4QfZYwnqW6aht9vMGr6hf_SE5PO1OuV-bO6Ky10na4",
+      "longitude": -83.329822,
+      "salary_is_predicted": "1",
+      "title": "Physician (M.D. / D.O.)",
+      "latitude": 43.056087,
+      "redirect_url": "https://www.adzuna.com/details/4996720402?utm_medium=api&utm_source=856de8a2",
+      "created": "2025-01-03T11:51:36Z"
+    },
+    {
+      "salary_max": 312000,
+      "company": {
+        "display_name": "VitalCore Health Strategies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "4996177068",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Grand Chute, Outagamie County",
+        "area": ["US", "Wisconsin", "Outagamie County", "Grand Chute"]
+      },
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": 44.2926,
+      "title": "Physician (Medical Director)",
+      "longitude": -88.37418,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5NjE3NzA2OCIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.CnS4Eulgpdqz4wsFtN2asDIepl5Sh_1FnX9lF61If5c",
+      "description": "Start A New Career with VitalCore Health Strategies VitalCore Health Strategies (VCHS), an industry leader in correctional healthcare, has an opening for a Part Time (6-10 hours) Medical Director / Physician at Outagamie and Brown Co Jail. At VitalCore we pride ourselves on retaining and acquiring hardworking ethical individuals who are committed to providing quality services. Join our team and experience first-hand how VitalCore Health Strategies promotes a positive work environment that is ba…",
+      "salary_min": 312000,
+      "created": "2025-01-03T02:06:04Z",
+      "redirect_url": "https://www.adzuna.com/details/4996177068?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "part_time"
+    },
+    {
+      "company": {
+        "display_name": "Solutions by Sanford",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 71223.65,
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5011385610",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Waverly, Wright County",
+        "area": ["US", "Minnesota", "Wright County", "Waverly"]
+      },
+      "salary_is_predicted": "1",
+      "latitude": 45.0662,
+      "title": "Traveling Registered Nurse",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Bemidji Main Clinic Location: Bemidji, MN Address: 1233 34th St NW, Bemidji, MN 56601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the followin…",
+      "longitude": -93.9701,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnFqOTY1alY3eEdNNVBEd0YzN2pZUSIsImkiOiI1MDExMzg1NjEwIn0.cSu8VVhekDVWJ8bPXklGcIlnlOZOtUdv1X5kxiWCZ68",
+      "salary_min": 71223.65,
+      "created": "2025-01-15T07:32:37Z",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com/details/5011385610?utm_medium=api&utm_source=856de8a2"
+    },
+    {
+      "title": "Registered Nurse",
+      "latitude": 46.174341,
+      "salary_is_predicted": "1",
+      "location": {
+        "area": ["US", "North Dakota", "Richland County", "Mantador"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Mantador, Richland County"
+      },
+      "id": "4992557634",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 71552.27,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "redirect_url": "https://www.adzuna.com/details/4992557634?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "full_time",
+      "created": "2024-12-30T23:07:47Z",
+      "salary_min": 71552.27,
+      "longitude": -96.971166,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjU1NzYzNCIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.yqGQUEqqIOVUG3HEDH12T1ZHqb0rVMb51zil-scmNMU",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Dickinson East Clinic Location: Dickinson, ND Address: 33 9th St W, Dickinson, ND 58601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follow…"
+    },
+    {
+      "created": "2024-12-30T23:07:46Z",
+      "redirect_url": "https://www.adzuna.com/details/4992557512?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "full_time",
+      "longitude": -102.632499,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnFqOTY1alY3eEdNNVBEd0YzN2pZUSIsImkiOiI0OTkyNTU3NTEyIn0.9BHHTAV3GeJo6bq15FS73OcaHerS6k_94qRrfjPpZjQ",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Dickinson East Clinic Location: Dickinson, ND Address: 33 9th St W, Dickinson, ND 58601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follow…",
+      "salary_min": 83517.81,
+      "latitude": 46.014757,
+      "title": "RN Traveler - Solutions By Sanford - Dickinson East Clinic - FT Weekdays",
+      "salary_is_predicted": "1",
+      "salary_max": 83517.81,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "location": {
+        "display_name": "Hettinger, Adams County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "North Dakota", "Adams County", "Hettinger"]
+      },
+      "id": "4992557512",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "created": "2025-01-02T15:08:54Z",
+      "latitude": 40.878358,
+      "title": "Relief Teacher",
+      "redirect_url": "https://www.adzuna.com/details/4995716600?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "1",
+      "longitude": -74.079614,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5NTcxNjYwMCIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.PeAgHdtRIy6ic1CYY-_mHyoQhne8LSnWxNoNj47IDRQ",
+      "salary_max": 35349.98,
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "company": {
+        "display_name": "Swing Education",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Lodi, Bergen County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "New Jersey", "Bergen County", "Lodi"]
+      },
+      "id": "4995716600",
+      "salary_min": 35349.98,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "Teaching Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "teaching-jobs"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.com/details/4922650187?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "full_time",
+      "created": "2024-11-01T19:43:57Z",
+      "salary_min": 25858.35,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMjY1MDE4NyIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.YuHumfAnuS5WieuL5267CTubdavvyMWzK8qRUbxO908",
+      "longitude": -72.644846,
+      "description": "$10,000 SIGN ON BONUS We are a small community hospital where your voice is heard We believe in sharing ideas and working with staff to create innovative ideas to improve employee engagement and patient care. What we offer: Generous Vacation that is front loaded based on budgeted hours Sick Time on an accrual basis 401(k)/Medical/Dental/Vision Insurance/Employee Assistance Program Voluntary Benefit Options Tuition Reimbursement, Free Parking Perk Spots (Discounts at local retailers, restaurants…",
+      "latitude": 41.990071,
+      "title": "Respiratory Therapist",
+      "salary_is_predicted": "1",
+      "location": {
+        "area": ["US", "Connecticut", "Hartford County", "Suffield"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Suffield, Hartford County"
+      },
+      "id": "4922650187",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 25858.35,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ECHN"
+      }
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

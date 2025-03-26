@@ -1,0 +1,13 @@
+.RecreuiterPage h1 {
+  text-align: center;
+  color: #3b63f5;
+  margin-top: -50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+#form {
+  background-color: #fafafa;
+  margin-top: 30px;
+  margin-left: 10px;
+  width: 98%;
+  border-radius: 10px;
+}

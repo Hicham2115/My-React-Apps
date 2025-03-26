@@ -1,0 +1,107 @@
+.Footer p {
+  width: 20%;
+  margin-top: -40px;
+  margin-left: 60px;
+}
+
+.icons i {
+  background-color: #3b63f5;
+  padding: 10px;
+  color: white;
+  border-radius: 50px;
+  margin-left: 10px;
+  transition: 0.5s ease;
+  cursor: pointer;
+  position: relative;
+  left: 40px;
+  margin-top: 20px;
+}
+.icons i:hover {
+  background-color: #84ff82;
+}
+.recources {
+  margin-left: 380px;
+  margin-top: -220px;
+}
+.recources ul {
+  list-style: none;
+  margin-left: -30px;
+  margin-top: 20px;
+}
+.recources li {
+  padding-bottom: 10px;
+  color: #687a9e;
+}
+
+.community {
+  margin-left: 560px;
+  margin-top: -212px;
+}
+.community ul {
+  list-style: none;
+  margin-left: -30px;
+  margin-top: 20px;
+}
+.community li {
+  padding-bottom: 10px;
+  color: #687a9e;
+}
+
+.Quicklinks {
+  margin-left: 750px;
+  margin-top: -212px;
+}
+.Quicklinks ul {
+  list-style: none;
+  margin-left: -30px;
+  margin-top: 20px;
+}
+.Quicklinks li {
+  padding-bottom: 10px;
+  color: #687a9e;
+}
+
+.More {
+  margin-left: 930px;
+  margin-top: -212px;
+}
+.More ul {
+  list-style: none;
+  margin-left: -30px;
+  margin-top: 20px;
+}
+.More li {
+  padding-bottom: 10px;
+  color: #687a9e;
+}
+.Download {
+  margin-left: 1060px;
+  margin-top: -210px;
+  font-size: large;
+  font-weight: bold;
+}
+.Apps {
+  position: relative;
+  left: 1000px;
+  top: 50px;
+  color: #687a9e;
+}
+.images {
+  margin-left: 1060px;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.images img {
+  border-radius: 7px;
+  cursor: pointer;
+}
+.Footer ul li {
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+.Footer ul li:hover {
+  color: #3b63f5;
+  margin-left: 10px;
+}

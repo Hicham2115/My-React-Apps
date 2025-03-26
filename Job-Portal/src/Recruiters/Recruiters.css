@@ -1,0 +1,41 @@
+.stars p {
+  color: #ffbe26;
+  padding-left: 70px;
+}
+.otherinfo {
+  font-weight: bold;
+}
+.otherinfo p {
+  margin-left: 50px;
+  margin-top: -25px;
+}
+.otherinfo .bx-location-plus {
+  font-weight: bold;
+  margin-left: -610px;
+  position: relative;
+  top: 2px;
+}
+.Open {
+  margin-left: 130px;
+  font-weight: bold;
+}
+.Recruiters {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-left: 70px;
+}
+
+.Recruiters1 {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.Recruiters1 h1 {
+  color: #05264f;
+}
+.Recruiters1 h3 {
+  color: #687a9e;
+  font-size: large;
+  margin-bottom: 50px;
+}

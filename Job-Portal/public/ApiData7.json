@@ -1,0 +1,290 @@
+{
+  "mean": 68627.47,
+  "count": 6344841,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "results": [
+    {
+      "title": "Registered Nurse",
+      "salary_is_predicted": "1",
+      "created": "2024-12-30T23:07:03Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjU0ODkyMiIsInMiOiJQR0FLSEpuVjd4R3U0RnE2Zi1ObGtRIn0.gc1zXA2zaOQxLxfkwuwL5XJieWAwFp4E5ePnkr0Yekc",
+      "location": {
+        "display_name": "Bottineau, Bottineau County",
+        "area": ["US", "North Dakota", "Bottineau County", "Bottineau"],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 62702.69,
+      "latitude": 48.854545,
+      "id": "4992548922",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Bismarck Medical Center Location: Bismarck, ND Address: 300 N 7th St, Bismarck, ND 58501, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follo…",
+      "redirect_url": "https://www.adzuna.com/details/4992548922?utm_medium=api&utm_source=856de8a2",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "contract_time": "full_time",
+      "longitude": -100.425754,
+      "salary_min": 62702.69
+    },
+    {
+      "longitude": -74.783978,
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "salary_min": 36702.25,
+      "salary_max": 36702.25,
+      "location": {
+        "display_name": "Fredon, Sussex County",
+        "area": ["US", "New Jersey", "Sussex County", "Fredon"],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 41.057564,
+      "id": "4995715910",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2025-01-02T15:08:51Z",
+      "category": {
+        "label": "Teaching Jobs",
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "display_name": "Swing Education",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5NTcxNTkxMCIsInMiOiJQR0FLSEpuVjd4R3U0RnE2Zi1ObGtRIn0.cwmyVdR3LphdibTI0RI-NviyewuK-Qbrxr5cIw24O2c",
+      "title": "Guest Educator",
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.com/details/4995715910?utm_medium=api&utm_source=856de8a2"
+    },
+    {
+      "id": "4994561863",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Mine Hill, Morris County",
+        "area": ["US", "New Jersey", "Morris County", "Mine Hill"]
+      },
+      "salary_max": 40946,
+      "latitude": 40.87876,
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "salary_min": 40946,
+      "longitude": -74.59662,
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.com/details/4994561863?utm_medium=api&utm_source=856de8a2",
+      "title": "Substitute Teacher",
+      "company": {
+        "display_name": "Swing Education",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Teaching Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUEdBS0hKblY3eEd1NEZxNmYtTmxrUSIsImkiOiI0OTk0NTYxODYzIn0.qXKXWdRPsenauhljIq6q6tSOk4EFnwDFaYyjyH9z3dU",
+      "created": "2025-01-01T17:20:41Z",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "title": "Registered Nurse",
+      "salary_is_predicted": "1",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2024-12-30T15:07:50Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjM3MTE4MiIsInMiOiJQR0FLSEpuVjd4R3U0RnE2Zi1ObGtRIn0.tNBKHgC3SJeekCG6MaSBuu3E9l1Dp_zx6bYebXccDXM",
+      "latitude": 47.95134,
+      "salary_max": 63711.5,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Munster, Eddy County",
+        "area": ["US", "North Dakota", "Eddy County", "Munster"]
+      },
+      "id": "4992371182",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Bismarck Medical Center Location: Bismarck, ND Address: 300 N 7th St, Bismarck, ND 58501, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follo…",
+      "redirect_url": "https://www.adzuna.com/details/4992371182?utm_medium=api&utm_source=856de8a2",
+      "company": {
+        "display_name": "Solutions by Sanford",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_time": "full_time",
+      "longitude": -99.150803,
+      "salary_min": 63711.5
+    },
+    {
+      "created": "2025-01-02T15:08:51Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Swing Education",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "Teaching Jobs",
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUEdBS0hKblY3eEd1NEZxNmYtTmxrUSIsImkiOiI0OTk1NzE1OTIyIn0.TK7jiuuifpxkSCNhtsMkrk-PSfF8ldQpD0NKnpGOXNg",
+      "title": "Private School Substitute Teacher",
+      "redirect_url": "https://www.adzuna.com/details/4995715922?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "1",
+      "longitude": -74.48244,
+      "salary_min": 47812.82,
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "latitude": 40.8432,
+      "location": {
+        "area": ["US", "New Jersey", "Morris County", "Morris Plains"],
+        "display_name": "Morris Plains, Morris County",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 47812.82,
+      "id": "4995715922"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com/details/5011385341?utm_medium=api&utm_source=856de8a2",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "contract_time": "full_time",
+      "longitude": -92.909,
+      "salary_min": 81514.22,
+      "title": "RN Traveler - Solutions By Sanford - Bemidji Urology Clinic- FT Straight Days",
+      "salary_is_predicted": "1",
+      "created": "2025-01-15T07:32:34Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUEdBS0hKblY3eEd1NEZxNmYtTmxrUSIsImkiOiI1MDExMzg1MzQxIn0.Eo-lLYie-OzVEKpod1F30rv_y4zsTu8KrGDm2UNHbFk",
+      "location": {
+        "area": ["US", "Minnesota", "Washington County", "Grant"],
+        "display_name": "Grant, Washington County",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 81514.22,
+      "latitude": 45.0825,
+      "id": "5011385341",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Bemidji Main Clinic Location: Bemidji, MN Address: 1233 34th St NW, Bemidji, MN 56601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the followin…"
+    },
+    {
+      "category": {
+        "label": "Teaching Jobs",
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUEdBS0hKblY3eEd1NEZxNmYtTmxrUSIsImkiOiI0OTk1NzIwMzE5In0.rcuekT7lZ8DoyOGlWoNeFy0ezHLdHBiq_Ih2KMx_aOY",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Swing Education"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2025-01-02T15:09:12Z",
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.com/details/4995720319?utm_medium=api&utm_source=856de8a2",
+      "title": "Substitute Teacher K-12, all subjects",
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "salary_min": 42065.78,
+      "longitude": -74.267242,
+      "id": "4995720319",
+      "location": {
+        "display_name": "Roselle Park, Union County",
+        "area": ["US", "New Jersey", "Union County", "Roselle Park"],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 42065.78,
+      "latitude": 40.665505
+    },
+    {
+      "title": "Substitute Teacher K-12, get paid every Friday",
+      "redirect_url": "https://www.adzuna.com/details/4995717709?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "1",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2025-01-02T15:08:59Z",
+      "category": {
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Teaching Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUEdBS0hKblY3eEd1NEZxNmYtTmxrUSIsImkiOiI0OTk1NzE3NzA5In0.Ck0v6q3z5fYhU1xJ1TJ89DJi6FGPLdTm2V30BEAsU-I",
+      "company": {
+        "display_name": "Swing Education",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 40.655696,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "New Jersey", "Union County", "Cranford"],
+        "display_name": "Cranford, Union County"
+      },
+      "salary_max": 36909.17,
+      "id": "4995717709",
+      "longitude": -74.305508,
+      "salary_min": 36909.17,
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5NTcyMDE4MiIsInMiOiJQR0FLSEpuVjd4R3U0RnE2Zi1ObGtRIn0._sJfYQE-TKULIARDPbEma0ena8cPwgpOt8LnvJ4o7Dk",
+      "category": {
+        "label": "Teaching Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "teaching-jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Swing Education"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2025-01-02T15:09:11Z",
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.com/details/4995720182?utm_medium=api&utm_source=856de8a2",
+      "title": "Substitute Teacher, all grades",
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "salary_min": 49244.93,
+      "longitude": -75.13548,
+      "id": "4995720182",
+      "salary_max": 49244.93,
+      "location": {
+        "area": ["US", "New Jersey", "Warren County", "Stewartsville"],
+        "display_name": "Stewartsville, Warren County",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 40.69818
+    },
+    {
+      "created": "2025-01-02T15:08:52Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Swing Education"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "teaching-jobs",
+        "label": "Teaching Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUEdBS0hKblY3eEd1NEZxNmYtTmxrUSIsImkiOiI0OTk1NzE2MjIwIn0.e2Bme8rDnzowQolewa0YkmK69DEwb-ZCbhHmCmkaroE",
+      "title": "Elementary Substitute Teacher",
+      "redirect_url": "https://www.adzuna.com/details/4995716220?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "1",
+      "longitude": -74.062078,
+      "salary_min": 47427.81,
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "latitude": 40.790013,
+      "salary_max": 47427.81,
+      "location": {
+        "display_name": "Secaucus, Hudson County",
+        "area": ["US", "New Jersey", "Hudson County", "Secaucus"],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "4995716220"
+    }
+  ]
+}

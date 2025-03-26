@@ -1,0 +1,15 @@
+.MyJob .All_My {
+  text-align: center;
+  color: #3b63f5;
+  margin-top: -50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.table {
+  width: 90%;
+  margin: 0 auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+}
+#post {
+  width: 20%;
+}

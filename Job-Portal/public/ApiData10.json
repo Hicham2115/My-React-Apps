@@ -1,0 +1,292 @@
+{
+  "count": 6344841,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "mean": 68627.47,
+  "results": [
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidHVVLVlKblY3eEdBR21RRHJPeG5MdyIsImkiOiI1MDE1Njc4NTc4In0.b2nFD8W08NhAdmroCJ05PRpa_WOxguHgUxQgWAuIixo",
+      "id": "5015678578",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "description": "Bonus up to $5,000 Physicians Care is looking for an experienced ARRT Radiology Tech to join our team in Chattanooga, TN. ABOUT PHYSICIANS CARE : Physicians Care, with 12 locations throughout Alabama, Georgia, and Tennessee, is an affiliate of Urgent Team, one of the largest independent operators of urgent and family care centers in the Southeast. The Urgent Team Family of Centers provides quality and affordable family healthcare at more than 80 locations under eight brands. Physicians Care’s c…",
+      "salary_min": 77679.26,
+      "latitude": 35.030063,
+      "salary_is_predicted": "1",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Urgent Team Management"
+      },
+      "location": {
+        "display_name": "Chattanooga, Hamilton County",
+        "area": ["US", "Tennessee", "Hamilton County", "Chattanooga"],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2025-01-18T07:32:52Z",
+      "redirect_url": "https://www.adzuna.com/details/5015678578?utm_medium=api&utm_source=856de8a2",
+      "longitude": -85.307076,
+      "title": "ARRT Radiology Technologist (Medical Assistant) at Physicians Care - FT/PRN",
+      "salary_max": 77679.26
+    },
+    {
+      "salary_min": 12796.98,
+      "description": "$15,000 SIGN ON BONUS We are a small community hospital where your voice is heard We believe in sharing ideas and working with staff to create innovative ideas to improve employee engagement and patient care. What we offer: Generous Vacation that is front loaded based on budgeted hours. Ex. 40 hours/ week  26 days a year Sick Time on an accrual basis 401(k)/Medical/Dental/Vision Insurance/Employee Assistance Program Voluntary Benefit Options Tuition Reimbursement, Free Parking Perk Spots (Disco…",
+      "contract_time": "full_time",
+      "id": "4982414815",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk4MjQxNDgxNSIsInMiOiJ0dVUtWUpuVjd4R0FHbVFEck94bkx3In0.dRpgLsKe_Ime9URJ8u6-2wpfHN7i-GI-_iSnCObzyqM",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2024-12-18T14:51:31Z",
+      "title": "Physical Therapist - Tuition Reimbursement",
+      "longitude": -72.797482,
+      "redirect_url": "https://www.adzuna.com/details/4982414815?utm_medium=api&utm_source=856de8a2",
+      "salary_max": 12796.98,
+      "company": {
+        "display_name": "ECHN",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "Connecticut", "Hartford County", "Granby"],
+        "display_name": "Granby, Hartford County"
+      },
+      "salary_is_predicted": "1",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 41.953806
+    },
+    {
+      "description": "Overview : Setting: Acute Care Compensation: $1,786 - $2,094 estimated weekly pay Start: ASAP | open to 1-2 months out Duration: 13 weeks | potential to extend Guaranteed Hours: 40 Benefits: Blue Cross Blue Shield medical benefits, paid housing or tax-free stipend, travel/license reimbursement, licensing team, and paid reward days Referral Program: Refer a friend and earn $500 Click here for similar opportunities and more information about travel therapy staffing. Delta Healthcare Providers (DH…",
+      "salary_min": 32746.93,
+      "created": "2025-01-01T07:13:25Z",
+      "title": "Physical Therapist",
+      "longitude": -71.0186,
+      "redirect_url": "https://www.adzuna.com/details/4993815015?utm_medium=api&utm_source=856de8a2",
+      "salary_max": 32746.93,
+      "salary_is_predicted": "1",
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "latitude": 42.0833,
+      "id": "4993815015",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidHVVLVlKblY3eEdBR21RRHJPeG5MdyIsImkiOiI0OTkzODE1MDE1In0.urT6t0YEdqsg3CJVlvwDNKcBoL3D31XrJLy7AgPkLBU",
+      "company": {
+        "display_name": "Delta Companies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Brockton, Plymouth County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "Massachusetts", "Plymouth County", "Brockton"]
+      }
+    },
+    {
+      "description": "Job Summary: As an Assistant Kitchen Manager, you will play a vital role in ensuring the smooth operation and success of our kitchen. You will work closely with the Kitchen Manager to oversee all aspects of food preparation, quality control, and kitchen staff management. This is a dynamic and challenging position that requires strong leadership skills, culinary expertise, and the ability to thrive in a fast-paced environment. Supervisory Responsibilities: Hires and trains restaurant staff. Assi…",
+      "salary_min": 64929.45,
+      "created": "2024-12-03T15:22:43Z",
+      "longitude": -112.00303,
+      "redirect_url": "https://www.adzuna.com/details/4961546066?utm_medium=api&utm_source=856de8a2",
+      "title": "Assistant Kitchen Manager at Cold Beers & Cheeseburgers - Cactus",
+      "salary_max": 64929.45,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Hospitality & Catering Jobs",
+        "tag": "hospitality-catering-jobs"
+      },
+      "salary_is_predicted": "1",
+      "latitude": 33.62121,
+      "id": "4961546066",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk2MTU0NjA2NiIsInMiOiJ0dVUtWUpuVjd4R0FHbVFEck94bkx3In0.M0agTxodY0pu9cmnVAlppAO-YPEBabY0_15y1HFrVO8",
+      "company": {
+        "display_name": "COLD BEERS & CHEESEBURGERS - CACTUS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "Arizona", "Maricopa County", "Paradise Valley"],
+        "display_name": "Paradise Valley, Maricopa County"
+      }
+    },
+    {
+      "created": "2025-01-02T15:09:01Z",
+      "salary_max": 40439.18,
+      "longitude": -74.20044,
+      "title": "Substitute Educator",
+      "redirect_url": "https://www.adzuna.com/details/4995718129?utm_medium=api&utm_source=856de8a2",
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "salary_min": 40439.18,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Swing Education"
+      },
+      "location": {
+        "display_name": "Upper Montclair, Essex County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "New Jersey", "Essex County", "Upper Montclair"]
+      },
+      "latitude": 40.84662,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5NTcxODEyOSIsInMiOiJ0dVUtWUpuVjd4R0FHbVFEck94bkx3In0.KzjO7O-5bk2Ppb3MZzsgzPkDEGmGmIOyrKDakxeqB3g",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "4995718129",
+      "category": {
+        "label": "Teaching Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "teaching-jobs"
+      },
+      "salary_is_predicted": "1"
+    },
+    {
+      "created": "2024-12-30T15:08:01Z",
+      "longitude": -97.457194,
+      "redirect_url": "https://www.adzuna.com/details/4992372219?utm_medium=api&utm_source=856de8a2",
+      "title": "Registered Nurse",
+      "salary_max": 72499.21,
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "salary_is_predicted": "1",
+      "latitude": 46.574797,
+      "company": {
+        "display_name": "Solutions by Sanford",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": ["US", "North Dakota", "Ransom County", "Sheldon"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sheldon, Ransom County"
+      },
+      "salary_min": 72499.21,
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Sanford Medical Center Fargo Location: Fargo, ND Address: 5225 23rd Ave S, Fargo, ND 58104, USA Shift: 12 Hours - Day Shifts Weekly Hours: 36.00 Salary Range: 2794 - 3482 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the…",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjM3MjIxOSIsInMiOiJ0dVUtWUpuVjd4R0FHbVFEck94bkx3In0.ITVLEHy-UI3GpD6IyOCF0YlCHOX7N66hZX-K-9YuDoQ",
+      "id": "4992372219",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAxMTM4NDk3NiIsInMiOiJ0dVUtWUpuVjd4R0FHbVFEck94bkx3In0.djT5G-NQ2bkFFtumcH1hjCv60_a2nMR5iyLzwMy_tSg",
+      "id": "5011384976",
+      "contract_time": "full_time",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Bemidji Main Clinic Location: Bemidji, MN Address: 1233 34th St NW, Bemidji, MN 56601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the followin…",
+      "salary_min": 94988.46,
+      "latitude": 45.314759,
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "salary_is_predicted": "1",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "Minnesota", "Swift County", "Benson"],
+        "display_name": "Benson, Swift County"
+      },
+      "company": {
+        "display_name": "Solutions by Sanford",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "RN Traveler - Solutions By Sanford - Bemidji Urology Clinic- FT Straight Days",
+      "longitude": -95.601949,
+      "redirect_url": "https://www.adzuna.com/details/5011384976?utm_medium=api&utm_source=856de8a2",
+      "salary_max": 94988.46,
+      "created": "2025-01-15T07:32:28Z"
+    },
+    {
+      "longitude": -73.955867,
+      "redirect_url": "https://www.adzuna.com/details/4995717571?utm_medium=api&utm_source=856de8a2",
+      "title": "Guest Teacher K-12",
+      "salary_max": 35874.04,
+      "created": "2025-01-02T15:08:58Z",
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "salary_min": 35874.04,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "New Jersey", "Bergen County", "Norwood"],
+        "display_name": "Norwood, Bergen County"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Swing Education"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidHVVLVlKblY3eEdBR21RRHJPeG5MdyIsImkiOiI0OTk1NzE3NTcxIn0.d4TtqIRbOR27fhJRY9P41OU8OiS6KEoytxSAnVs0wVk",
+      "id": "4995717571",
+      "latitude": 40.995076,
+      "category": {
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Teaching Jobs"
+      },
+      "salary_is_predicted": "1"
+    },
+    {
+      "salary_min": 44387.67,
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "longitude": -74.034772,
+      "title": "Substitute Teacher K-12, The Best Place to Sub",
+      "redirect_url": "https://www.adzuna.com/details/4995718816?utm_medium=api&utm_source=856de8a2",
+      "salary_max": 44387.67,
+      "created": "2025-01-02T15:09:05Z",
+      "location": {
+        "display_name": "Summit Avenue, Hudson County",
+        "area": ["US", "New Jersey", "Hudson County", "Summit Avenue"],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Swing Education",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "1",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Teaching Jobs",
+        "tag": "teaching-jobs"
+      },
+      "id": "4995718816",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5NTcxODgxNiIsInMiOiJ0dVUtWUpuVjd4R0FHbVFEck94bkx3In0.s-GFE7AOOTYvL9r3g9zTXHjFpwJWvVt7n5s-AStQLL8",
+      "latitude": 40.765016
+    },
+    {
+      "id": "4995717534",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidHVVLVlKblY3eEdBR21RRHJPeG5MdyIsImkiOiI0OTk1NzE3NTM0In0.ZBVr4Uin_NH37rUsvcFK8-J0fvl5303QAIBRdZQ8SXU",
+      "salary_min": 39741.03,
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Teaching Jobs",
+        "tag": "teaching-jobs"
+      },
+      "salary_is_predicted": "1",
+      "latitude": 40.762859,
+      "contract_type": "contract",
+      "company": {
+        "display_name": "Swing Education",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "South Kearny, Hudson County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "New Jersey", "Hudson County", "South Kearny"]
+      },
+      "created": "2025-01-02T15:08:58Z",
+      "title": "Temporary Teacher",
+      "longitude": -74.144599,
+      "redirect_url": "https://www.adzuna.com/details/4995717534?utm_medium=api&utm_source=856de8a2",
+      "salary_max": 39741.03
+    }
+  ]
+}

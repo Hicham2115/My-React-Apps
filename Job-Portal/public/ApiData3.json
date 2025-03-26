@@ -1,0 +1,667 @@
+{
+  "mean": 68636.18,
+  "count": 6344841,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "results": [
+    {
+      "created": "2025-01-17T12:37:00Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAxNDc2MTc2MyIsInMiOiJBamE3M3BqVjd4R3U0RnE2Zi1ObGtRIn0.lkuhd9L02hezlWE8-PrZpyON80ktz5WiQIWGAyIE3G8",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "company": {
+        "display_name": "Blue Line Aviation LLC",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Chief Financial Officer",
+      "redirect_url": "https://www.adzuna.com/details/5014761763?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "1",
+      "longitude": -78.347287,
+      "salary_min": 128841.27,
+      "description": "Blue Line Aviation is seeking an accomplished and strategic Chief Financial Officer (CFO) to lead all financial operations of the organization. The CFO will serve as a key member of the executive leadership team, providing strategic financial guidance to the Chief Executive Officer (CEO) and the Board of Directors. This role is critical in ensuring the company's long-term financial sustainability, driving growth initiatives, and optimizing overall financial performance. The CFO will oversee the…",
+      "latitude": 35.511818,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Smithfield, Johnston County",
+        "area": ["US", "North Carolina", "Johnston County", "Smithfield"]
+      },
+      "salary_max": 128841.27,
+      "id": "5014761763",
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "trade-construction-jobs",
+        "label": "Trade & Construction Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Chesapeake Containment"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk2MTU0NjExMCIsInMiOiJBamE3M3BqVjd4R3U0RnE2Zi1ObGtRIn0.OWC-hfnCu-nrwM75xE9gWGUZyzCsHSjfByzopAziH0g",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2024-12-03T15:22:44Z",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com/details/4961546110?utm_medium=api&utm_source=856de8a2",
+      "title": "Superintendent - Construction",
+      "description": "Carolina Environmental Construction is a professional, environmental construction company. We specialize in the Solid Waste, Power, and Industrial markets. Our job sites are nationwide, primarily on the East Coast. Our ideal candidate will have prior construction experience in the pipe, concrete, or grading industry. We are looking for an experienced Construction Superintendent with a salary ranging from 80,000 to 100,000 based on experience. This is an extensive traveling position. Responsibil…",
+      "salary_min": 80000,
+      "longitude": -86.689267,
+      "id": "4961546110",
+      "location": {
+        "area": ["US", "Alabama", "Jefferson County", "Irondale"],
+        "display_name": "Irondale, Jefferson County",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 100000,
+      "latitude": 33.532508,
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "work_experience": "Intermediate",
+      "Date_Of_Posting": "Last month",
+      "salary_type": "yearly"
+    },
+    {
+      "category": {
+        "tag": "trade-construction-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trade & Construction Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ABC Home and Commercial"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWphNzNwalY3eEd1NEZxNmYtTmxrUSIsImkiOiI0OTYxNjU2MDk1In0.ul0-EXppLuj4sg8VCTBZDHQ7roAign3M6SgN_bZK9GI",
+      "created": "2024-12-03T17:29:36Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com/details/4961656095?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "1",
+      "title": "HVAC Service Technician",
+      "salary_min": 80901.93,
+      "description": "Description: At ABC Home & Commercial Services, we're more than just a company; we're a family committed to excellence. With 75 years of history and a team of over 1,000 employees serving a growing network of cities in Central and South Texas, we take pride in being a family-owned business dedicated to fulfilling commitments, serving others, and supporting families. Join Our HVAC Team Today: If you're ready to heat up your career and cool down customer concerns, apply now SIGN ON BONUS AVAILABL…",
+      "longitude": -97.631299,
+      "id": "4961656095",
+      "latitude": 30.292661,
+      "salary_max": 80901.93,
+      "location": {
+        "display_name": "Sprinkle, Travis County",
+        "area": ["US", "Texas", "Travis County", "Sprinkle"],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "work_experience": "Intermediate",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "display_name": "Valley Regional Hospital",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWphNzNwalY3eEd1NEZxNmYtTmxrUSIsImkiOiI1MDE0Mzk2MDQ3In0.Zbn9qDEccQE7motPB9BQKp-n_qByTWKSeA72yT9YFdk",
+      "created": "2025-01-17T09:35:27Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.com/details/5014396047?utm_medium=api&utm_source=856de8a2",
+      "title": "Physical Therapist",
+      "description": "Are you ready to join a staff of like-minded professionals that strive to provide compassionate, affordable, high-quality care in our community? At Valley Regional Hospital, patients are the center of our coordinated care system and right now we have an opening for a Physical Therapist to join our team. The primary responsibility of the Physical Therapist is: Incorporates appropriate assessment and intervention and/or technical skills in all interactions and/or delivery of patient care. Communi…",
+      "salary_min": 66872,
+      "longitude": -72.345416,
+      "id": "5014396047",
+      "location": {
+        "display_name": "Claremont, Sullivan County",
+        "area": ["US", "New Hampshire", "Sullivan County", "Claremont"],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 66872,
+      "latitude": 43.368572,
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2024-12-03T17:29:40Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWphNzNwalY3eEd1NEZxNmYtTmxrUSIsImkiOiI0OTYxNjU2NjU0In0.TVnhuv4n442LuRXHJ4ACxSXB988EvnkLIGTeK9knJKU",
+      "category": {
+        "label": "Teaching Jobs",
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "display_name": "10 Fitness",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Personal Trainer",
+      "redirect_url": "https://www.adzuna.com/details/4961656654?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "0",
+      "longitude": -92.246143,
+      "salary_min": 26000,
+      "description": "PLEASE READ THE ENTIRE JOB DESCRIPTION AND EXPECTATIONS BEFORE CONTINUING Personal Trainer Job Description 10 Fitness Personal Trainers are expected to uphold and deliver the 10 Fitness member experience while conducting personal training sessions with clients during one-on-one and/or group sessions. 10 Fitness Personal Trainers should be committed individuals who are patient and resilient. They should be honest, enthusiastic about helping others and have a strong desire to make a difference. A…",
+      "latitude": 34.802073,
+      "salary_max": 70720,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Genevia, Pulaski County",
+        "area": ["US", "Arkansas", "Pulaski County", "Genevia"]
+      },
+      "id": "4961656654",
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "work_experience": "Intermediate",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "created": "2025-01-17T14:57:15Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWphNzNwalY3eEd1NEZxNmYtTmxrUSIsImkiOiI1MDE0OTA0MTQ5In0.NVpZ1t3iIqNoka8cUaj5uRBDmSAbvH3uEaLI4WE9Xgg",
+      "title": "Organ Recovery Surgeon",
+      "salary_is_predicted": "0",
+      "description": "DCI Donor Services Sierra Donor Services is seeking a board-certified Organ Recovery Surgeon to assist with the clinical, operational and research activities. The candidate will have the following responsibilities: Surgically recovers abdominal (liver, kidney, pancreas, and small bowel) organs for transplantation and research in donor hospitals throughout the service area. Assumes on-call responsibilities as required to assure adequate coverage for donor activity and must be available to surgic…",
+      "latitude": 38.555718,
+      "location": {
+        "display_name": "Bryte, Yolo County",
+        "area": ["US", "California", "Yolo County", "Bryte"],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 350000,
+      "id": "5014904149",
+      "company": {
+        "display_name": "DCI Donor Services",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "redirect_url": "https://www.adzuna.com/details/5014904149?utm_medium=api&utm_source=856de8a2",
+      "longitude": -121.547206,
+      "salary_min": 250000,
+      "contract_time": "full_time",
+      "contract_type": "permanent",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "description": "Description: Sign On Bonus - LPN: Full Time: $6,000 Part Time: $3,000 NEW WAGE SCALES UP TO $38.50/HOUR plus $3.20/hour State granted hazard pay No Mandates Work every 3rd weekend We believe in work-life balance, 12 hour shifts, working every third weekend. The last few years have been the most difficult in healthcare, maybe ever, I'll bet you never imagined that you would have to work as hard as you have. Being a nurse is a tough job; money is important but so is being appreciated for the hard…",
+      "id": "4961656229",
+      "latitude": 42.926665,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "Michigan", "Kent County", "Cascade"],
+        "display_name": "Cascade, Kent County"
+      },
+      "salary_max": 63669.05,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWphNzNwalY3eEd1NEZxNmYtTmxrUSIsImkiOiI0OTYxNjU2MjI5In0.25RcnEelBFYw4qNXCwwAHSiGE7gx8Hyz_Z7-4I8Kwh0",
+      "created": "2024-12-03T17:29:37Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "1",
+      "title": "Licensed Practical Nurse",
+      "salary_min": 63669.05,
+      "longitude": -85.55033,
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "SKLD Beltline"
+      },
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "redirect_url": "https://www.adzuna.com/details/4961656229?utm_medium=api&utm_source=856de8a2",
+      "contract_type": "permanent",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "title": "Robotics Technical Trainer",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com/details/5014575157?utm_medium=api&utm_source=856de8a2",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2025-01-17T11:36:38Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Staubli Corporation"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAxNDU3NTE1NyIsInMiOiJBamE3M3BqVjd4R3U0RnE2Zi1ObGtRIn0.sBYbDvFysGGC74jh3n-z3zPQE098ehxQtMxj5tTG_H4",
+      "salary_max": 85000,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "South Carolina", "Spartanburg County", "Duncan"],
+        "display_name": "Duncan, Spartanburg County"
+      },
+      "latitude": 34.908052,
+      "id": "5014575157",
+      "longitude": -82.120389,
+      "description": "Company Overview: Stäubli is a value driven technological solutions provider with four dedicated activities: Electrical Connectors , Fluid Connectors, Robotics and Textile. We strive for innovation and excellence and are market leaders in many industrial segments. Stäubli guarantees high quality, reliability, and performance - our strong basis for the trusted partnership with our customers worldwide. Job Function: As a Robotics Technical Trainer , you will be responsible for educating our exter…",
+      "salary_min": 75000,
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "work_experience": "Intermediate",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "contract_time": "full_time",
+      "longitude": -86.866948,
+      "salary_min": 62400,
+      "redirect_url": "https://www.adzuna.com/details/4961656110?utm_medium=api&utm_source=856de8a2",
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Complete Health Partners"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Belle Meade, Davidson County",
+        "area": ["US", "Tennessee", "Davidson County", "Belle Meade"]
+      },
+      "salary_max": 68640,
+      "latitude": 36.149755,
+      "id": "4961656110",
+      "description": "Description: Complete Health Partners is looking for an experienced Limited X-Ray or ARRT Radiology Tech to join our Advanced Primary Care practice in West Nashville. This is a full-time position offering comprehensive benefits, PTO, and shift differentials. The pay range is $30-$33 per hour depending on experience. Skills in Medical Assisting are required. The objective for this role is to provide radiologic coverage for specific times of the week, as well as, medical assistant coverage as nee…",
+      "title": "ARRT/ Limited Scope LMRT X-Ray Tech",
+      "salary_is_predicted": "0",
+      "created": "2024-12-03T17:29:36Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQWphNzNwalY3eEd1NEZxNmYtTmxrUSIsImkiOiI0OTYxNjU2MTEwIn0.t_uhu3vXrpVZmPEMRqyTviY9vaQcZpeSfONKsH8haLo",
+      "contract_type": "permanent",
+      "work_experience": "Intermediate",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "title": "Personal Banker I - Floating",
+      "redirect_url": "https://www.adzuna.com/details/4961614414?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "1",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2024-12-03T17:00:26Z",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "company": {
+        "display_name": "Civista Bank",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk2MTYxNDQxNCIsInMiOiJBamE3M3BqVjd4R3U0RnE2Zi1ObGtRIn0.D3_-E-akzuK5twUBnnYTt_fv_nFJeJQGa8z_xw4BqG4",
+      "latitude": 40.995539,
+      "salary_max": 48988.8,
+      "location": {
+        "area": ["US", "Ohio", "Huron County", "Plymouth"],
+        "display_name": "Plymouth, Huron County",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "4961614414",
+      "longitude": -82.667637,
+      "salary_min": 48988.8,
+      "description": "Civista Bank Description: Position Purpose: A Personal Banker I (PB I) is responsible for maintaining and building customer relationships while utilizing a consultative sales process to proactively provide solutions to assist new and existing customers in achieving their financial goals. The PB I also provides sales, service and operational support to the retail banking team. The PB I demonstrates Civista Bank's mission to improve the financial lives of our employees and shareholders, to make a…",
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "work_experience": "Intermediate",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "latitude": 42.297912,
+      "title": "Utilization Review LPN",
+      "redirect_url": "https://www.adzuna.com/details/5015195898?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "0",
+      "created": "2025-01-17T21:40:41Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 39000,
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "area": ["US", "Illinois", "Winnebago County", "Rockford"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Rockford, Winnebago County"
+      },
+      "id": "5015195898",
+      "description": "Description: LPNs – are you looking for a change? Want to work no nights, no weekends, and no holidays? Be able to work from home 50% of the time once trained? Check out Hines & Associates ABOUT US: Hines is a nationwide, independent leader in personalized managed health care, focused on what's important to you—comprehensive services with the program excellence and cost containment that you demand. Hines & Associates, Inc.'s reputation as an industry leader is founded on over three decades of i…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hines & Associates Inc"
+      },
+      "longitude": -89.127617,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnFqOTY1alY3eEdNNVBEd0YzN2pZUSIsImkiOiI1MDE1MTk1ODk4In0.U0BQsXlxKVJnp-Fnn4fjABVpyU805J-Ohb0zqS2IuCU",
+      "salary_max": 43000,
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "work_experience": "Intermediate",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "id": "4961656061",
+      "location": {
+        "display_name": "Menlo Park, Middlesex County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "New Jersey", "Middlesex County", "Menlo Park"]
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 80668.57,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Progressive Spine & Orthopaedics, LLC"
+      },
+      "salary_is_predicted": "1",
+      "title": "Nurse Practitioner",
+      "latitude": 40.57581,
+      "salary_min": 80668.57,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk2MTY1NjA2MSIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.BAFIaCdNYH28f09XYNHaDqcf5oxV2ebzC5WFyo1suhI",
+      "longitude": -74.3658,
+      "description": "Nurse Practitioner - Edison, NJ Are you a compassionate and skilled Nurse Practitioner eager to make a difference in the lives of patients? We’re thrilled to announce an exciting opportunity for a Nurse Practitioner specializing in orthopaedics to join our welcoming team in Edison, NJ. If you’re looking for a place where your expertise will be valued and your contributions celebrated, look no further Since our founding in 2011, we have dedicated ourselves to providing exceptional care throughou…",
+      "redirect_url": "https://www.adzuna.com/details/4961656061?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "full_time",
+      "created": "2024-12-03T17:29:36Z",
+      "contract_type": "permanent",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "salary_min": 41600,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnFqOTY1alY3eEdNNVBEd0YzN2pZUSIsImkiOiI0OTYxNjU2NDgzIn0.jGQwaTBzMaZuL1vCfitcyC_D18t91YojW2IgC1LkhBs",
+      "longitude": -105.007314,
+      "description": "OnPoint Medical Group is searching for an outstanding Medical Assistant to join our team at South Denver OBGYN Come join a great group of medical professionals as our network continues to grow OnPoint Medical Group is a physician-led network of skilled Primary and Urgent care providers who are committed to expanding access to quality healthcare in the most effective and affordable manner possible. Our \"Circle of Care\" has one primary goal – to ensure the health and wellness of members and their…",
+      "redirect_url": "https://www.adzuna.com/details/4961656483?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "full_time",
+      "created": "2024-12-03T17:29:39Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Littleton, Arapahoe County",
+        "area": ["US", "Colorado", "Arapahoe County", "Littleton"]
+      },
+      "id": "4961656483",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "salary_max": 54080,
+      "company": {
+        "display_name": "OnPoint Medical Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 39.599898,
+      "title": "Medical Assistant - South Denver OBGYN",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "work_experience": "Intermediate",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 156674.77,
+      "id": "4996720402",
+      "location": {
+        "area": ["US", "Michigan", "Lapeer County", "Lake Nepessing"],
+        "display_name": "Lake Nepessing, Lapeer County",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "VitalCore Health Strategies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Join the VitalCore Team in Michigan We’re people fueled by passion, not by profit VitalCore Health Strategies, an industry leader in Correctional Health Care, has an opening for a staff P hysician (M.D. or D.O.) at Thumb Correctional Facility in Lapeer, Michigan View our opportunities at: https://vitalcorehs.com/careers PHYSICIAN (M.D. / D.O.) BENEFITS PACKAGE TO INCLUDE BUT NOT LIMITED TO: Holiday Pay : New Year’s Day, Martin Luther King Jr. Day, Memorial Day, Juneteenth, Independence Day, Lab…",
+      "salary_max": 156674.77,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5NjcyMDQwMiIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.-4QfZYwnqW6aht9vMGr6hf_SE5PO1OuV-bO6Ky10na4",
+      "longitude": -83.329822,
+      "salary_is_predicted": "1",
+      "title": "Physician (M.D. / D.O.)",
+      "latitude": 43.056087,
+      "redirect_url": "https://www.adzuna.com/details/4996720402?utm_medium=api&utm_source=856de8a2",
+      "created": "2025-01-03T11:51:36Z",
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "salary_max": 312000,
+      "company": {
+        "display_name": "VitalCore Health Strategies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "4996177068",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Grand Chute, Outagamie County",
+        "area": ["US", "Wisconsin", "Outagamie County", "Grand Chute"]
+      },
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": 44.2926,
+      "title": "Physician (Medical Director)",
+      "longitude": -88.37418,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5NjE3NzA2OCIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.CnS4Eulgpdqz4wsFtN2asDIepl5Sh_1FnX9lF61If5c",
+      "description": "Start A New Career with VitalCore Health Strategies VitalCore Health Strategies (VCHS), an industry leader in correctional healthcare, has an opening for a Part Time (6-10 hours) Medical Director / Physician at Outagamie and Brown Co Jail. At VitalCore we pride ourselves on retaining and acquiring hardworking ethical individuals who are committed to providing quality services. Join our team and experience first-hand how VitalCore Health Strategies promotes a positive work environment that is ba…",
+      "salary_min": 312000,
+      "created": "2025-01-03T02:06:04Z",
+      "redirect_url": "https://www.adzuna.com/details/4996177068?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "part_time",
+      "contract_type": "permanent",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "company": {
+        "display_name": "Solutions by Sanford",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 71223.65,
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5011385610",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Waverly, Wright County",
+        "area": ["US", "Minnesota", "Wright County", "Waverly"]
+      },
+      "salary_is_predicted": "1",
+      "latitude": 45.0662,
+      "title": "Traveling Registered Nurse",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Bemidji Main Clinic Location: Bemidji, MN Address: 1233 34th St NW, Bemidji, MN 56601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the followin…",
+      "longitude": -93.9701,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnFqOTY1alY3eEdNNVBEd0YzN2pZUSIsImkiOiI1MDExMzg1NjEwIn0.cSu8VVhekDVWJ8bPXklGcIlnlOZOtUdv1X5kxiWCZ68",
+      "salary_min": 71223.65,
+      "created": "2025-01-15T07:32:37Z",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com/details/5011385610?utm_medium=api&utm_source=856de8a2",
+      "contract_type": "permanent",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "title": "Registered Nurse",
+      "latitude": 46.174341,
+      "salary_is_predicted": "1",
+      "location": {
+        "area": ["US", "North Dakota", "Richland County", "Mantador"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Mantador, Richland County"
+      },
+      "id": "4992557634",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 71552.27,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "redirect_url": "https://www.adzuna.com/details/4992557634?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "full_time",
+      "created": "2024-12-30T23:07:47Z",
+      "salary_min": 71552.27,
+      "longitude": -96.971166,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjU1NzYzNCIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.yqGQUEqqIOVUG3HEDH12T1ZHqb0rVMb51zil-scmNMU",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Dickinson East Clinic Location: Dickinson, ND Address: 33 9th St W, Dickinson, ND 58601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follow…",
+      "contract_type": "permanent",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "created": "2024-12-30T23:07:46Z",
+      "redirect_url": "https://www.adzuna.com/details/4992557512?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "full_time",
+      "longitude": -102.632499,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNnFqOTY1alY3eEdNNVBEd0YzN2pZUSIsImkiOiI0OTkyNTU3NTEyIn0.9BHHTAV3GeJo6bq15FS73OcaHerS6k_94qRrfjPpZjQ",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Dickinson East Clinic Location: Dickinson, ND Address: 33 9th St W, Dickinson, ND 58601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follow…",
+      "salary_min": 83517.81,
+      "latitude": 46.014757,
+      "title": "RN Traveler - Solutions By Sanford - Dickinson East Clinic - FT Weekdays",
+      "salary_is_predicted": "1",
+      "salary_max": 83517.81,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "location": {
+        "display_name": "Hettinger, Adams County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "North Dakota", "Adams County", "Hettinger"]
+      },
+      "id": "4992557512",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "created": "2025-01-02T15:08:54Z",
+      "latitude": 40.878358,
+      "title": "Relief Teacher",
+      "redirect_url": "https://www.adzuna.com/details/4995716600?utm_medium=api&utm_source=856de8a2",
+      "salary_is_predicted": "1",
+      "longitude": -74.079614,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5NTcxNjYwMCIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.PeAgHdtRIy6ic1CYY-_mHyoQhne8LSnWxNoNj47IDRQ",
+      "salary_max": 35349.98,
+      "description": "Step in for absent teachers with Swing Education Make a real impact in classrooms Our substitute teaching roles give you the flexibility, support, and growth opportunities you’re looking for. Requirements: Associate's or Bachelor's degree, or higher, unless holding the NJ 60 or 30 Credit Instructional Substitute Credential. International degrees evaluated individually. Pass a background check with the NJ Department of Education before the hiring date. Provide a negative TB test within 6 months …",
+      "company": {
+        "display_name": "Swing Education",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Lodi, Bergen County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "New Jersey", "Bergen County", "Lodi"]
+      },
+      "id": "4995716600",
+      "salary_min": 35349.98,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "Teaching Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "teaching-jobs"
+      },
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "work_experience": "Intermediate",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com/details/4922650187?utm_medium=api&utm_source=856de8a2",
+      "contract_time": "full_time",
+      "created": "2024-11-01T19:43:57Z",
+      "salary_min": 25858.35,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkyMjY1MDE4NyIsInMiOiI2cWo5NjVqVjd4R001UER3RjM3allRIn0.YuHumfAnuS5WieuL5267CTubdavvyMWzK8qRUbxO908",
+      "longitude": -72.644846,
+      "description": "$10,000 SIGN ON BONUS We are a small community hospital where your voice is heard We believe in sharing ideas and working with staff to create innovative ideas to improve employee engagement and patient care. What we offer: Generous Vacation that is front loaded based on budgeted hours Sick Time on an accrual basis 401(k)/Medical/Dental/Vision Insurance/Employee Assistance Program Voluntary Benefit Options Tuition Reimbursement, Free Parking Perk Spots (Discounts at local retailers, restaurants…",
+      "latitude": 41.990071,
+      "title": "Respiratory Therapist",
+      "salary_is_predicted": "1",
+      "location": {
+        "area": ["US", "Connecticut", "Hartford County", "Suffield"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Suffield, Hartford County"
+      },
+      "id": "4922650187",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 25858.35,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ECHN"
+      },
+      "contract_type": "permanent",
+      "work_experience": "Pro",
+      "Date_Of_Posting": "Last 7 days",
+      "salary_type": "yearly"
+    }
+  ]
+}

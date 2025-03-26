@@ -1,0 +1,76 @@
+.Hero {
+  background-image: url("../assets/hunters-race-MYbhN8KaaEc-unsplash.jpg");
+  height: 110vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: -40px;
+}
+.overlay {
+  background-color: rgba(37, 66, 99, 0.5);
+  height: 110vh;
+  text-align: center;
+  color: white;
+}
+.overlay h1 {
+  padding-top: 100px;
+  font-size: 55px;
+}
+.overlay .Hiring {
+  margin-top: -110px;
+}
+.overlay p {
+  font-size: 20px;
+  width: 50%;
+  margin: 0 auto;
+  font-weight: 400;
+}
+.inputs {
+  height: 80px;
+  padding-top: 10px;
+  padding-left: 10px;
+  background-color: white;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.Popular {
+  margin-top: 30px;
+}
+.Popular a {
+  color: white;
+  margin-left: 10px;
+}
+.h3s {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 70px;
+}
+.subh3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 100px;
+}
+.imgs {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  margin-top: 150px;
+}
+#Search:hover {
+  color: white;
+}
+
+.bx-search-alt-2 {
+  margin-right: 10px;
+  font-size: large;
+}
+@media (min-width: 1440px) {
+  .imgs {
+    margin-top: 780px;
+  }
+}

@@ -1,0 +1,43 @@
+.content {
+  margin-left: 70px;
+  margin-top: -40px;
+}
+#location {
+  position: relative;
+  left: 3px;
+  top: 1px;
+  color: black;
+}
+.bx-time-five {
+  color: black;
+  position: relative;
+  left: 5px;
+  top: -10px;
+}
+.bx-dollar {
+  position: relative;
+  top: -10px;
+  color: green;
+  left: 3px;
+}
+
+#btnox {
+  margin-left: 10px;
+  background-color: #34aef4;
+  transition: 0.5s ease;
+}
+#btnox:hover {
+  background-color: rgb(4, 65, 186);
+}
+#details {
+  color: white;
+  text-decoration: none;
+}
+.bxs-arrow-to-right {
+  margin-left: 10px;
+}
+#cardox:hover {
+  box-shadow: 10px 4px 17px -4px rgba(56, 182, 255, 0.75);
+  -webkit-box-shadow: 10px 4px 17px -4px rgba(56, 182, 255, 0.75);
+  -moz-box-shadow: 10px 4px 17px -4px rgba(56, 182, 255, 0.75);
+}

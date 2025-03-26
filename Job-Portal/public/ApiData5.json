@@ -1,0 +1,298 @@
+{
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "count": 6344841,
+  "results": [
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Epic Travel Staffing"
+      },
+      "location": {
+        "display_name": "Springfield, Lane County",
+        "area": ["US", "Oregon", "Lane County", "Springfield"],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "salary_is_predicted": "1",
+      "latitude": 44.046389,
+      "contract_type": "permanent",
+      "created": "2025-01-17T23:26:44Z",
+      "title": "Travel Nurse (RN) CVICU (Cardiovascular Intensive Care Unit)",
+      "longitude": -123.020833,
+      "salary_max": 115562.64,
+      "redirect_url": "https://www.adzuna.com/details/5015276645?utm_medium=api&utm_source=856de8a2",
+      "id": "5015276645",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOW5CdjlwalY3eEdBR21RRHJPeG5MdyIsImkiOiI1MDE1Mjc2NjQ1In0.35Kqu4bJETCqX5fIzzos_cTY91BC81eO7NsoRDYzh4o",
+      "description": "Epic Travel Staffing is hiring a Travel RN - CVICU/CCU Shift: Nights, 7p-7:30a, 12x3, 36 hrs per week Length: 13 weeks Must be open to working any and all days. Requirements: OR License Minimum 2 years RN experience, but one year Required recent Critical Care Experience. Looking for strong critical care RN who has post open heart, post carotid artery stenting, transvenous and epicardial pacemakers, PA cathers, Art line and management of blood pressure abnormalities with parenteral vasoactive ag…",
+      "salary_min": 115562.64,
+      "contract_time": "full_time"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjU1MDU2NCIsInMiOiI5bkJ2OXBqVjd4R0FHbVFEck94bkx3In0.opUEArrU0kWVQRImff0LVED5IEAQmDPNMJwh4LOJCxA",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "4992550564",
+      "contract_time": "full_time",
+      "salary_min": 81617.52,
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Bismarck Medical Center Location: Bismarck, ND Address: 300 N 7th St, Bismarck, ND 58501, USA Shift: 12 Hours - Night Shifts Weekly Hours: 36.00 Salary Range: 3010 - 3794 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the…",
+      "latitude": 48.4152,
+      "salary_is_predicted": "1",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "Grafton, Walsh County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "North Dakota", "Walsh County", "Grafton"]
+      },
+      "company": {
+        "display_name": "Solutions by Sanford",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": -97.41174,
+      "salary_max": 81617.52,
+      "title": "RN Traveler - Solutions By Sanford - Bismarck PICU - FT Straight Nights",
+      "redirect_url": "https://www.adzuna.com/details/4992550564?utm_medium=api&utm_source=856de8a2",
+      "created": "2024-12-30T23:07:09Z"
+    },
+    {
+      "id": "4992369440",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOW5CdjlwalY3eEdBR21RRHJPeG5MdyIsImkiOiI0OTkyMzY5NDQwIn0.CH2CLWWagjqTZiibGYL44sT84ojcF1uUEWEWo20_F3U",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Dickinson East Clinic Location: Dickinson, ND Address: 33 9th St W, Dickinson, ND 58601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follow…",
+      "salary_min": 71588.11,
+      "latitude": 46.230032,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "salary_is_predicted": "1",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "North Dakota", "Bowman County", "Griffin"],
+        "display_name": "Griffin, Bowman County"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "longitude": -103.690202,
+      "title": "RN Traveler - Solutions By Sanford - Dickinson East Clinic - FT Weekdays",
+      "salary_max": 71588.11,
+      "redirect_url": "https://www.adzuna.com/details/4992369440?utm_medium=api&utm_source=856de8a2",
+      "created": "2024-12-30T15:07:33Z"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjM3MTkwNCIsInMiOiI5bkJ2OXBqVjd4R0FHbVFEck94bkx3In0.6nCRQvGDUxX3wtQtATwT1fXVQ5yHvDRx-Na8EVawc4c",
+      "id": "4992371904",
+      "salary_min": 72512.14,
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Sanford Medical Center Fargo Location: Fargo, ND Address: 5225 23rd Ave S, Fargo, ND 58104, USA Shift: 12 Hours - Day Shifts Weekly Hours: 36.00 Salary Range: 2794 - 3482 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the…",
+      "contract_time": "full_time",
+      "salary_is_predicted": "1",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "latitude": 48.284798,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "location": {
+        "display_name": "Harlow, Benson County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "North Dakota", "Benson County", "Harlow"]
+      },
+      "created": "2024-12-30T15:07:57Z",
+      "title": "Registered Nurse",
+      "longitude": -99.439254,
+      "redirect_url": "https://www.adzuna.com/details/4992371904?utm_medium=api&utm_source=856de8a2",
+      "salary_max": 72512.14
+    },
+    {
+      "id": "4992557426",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjU1NzQyNiIsInMiOiI5bkJ2OXBqVjd4R0FHbVFEck94bkx3In0.urtHZ7Z4ATN-jf4AFpIIs4-r6h1cP7Qx7IbB9K38Nw0",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Dickinson East Clinic Location: Dickinson, ND Address: 33 9th St W, Dickinson, ND 58601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follow…",
+      "salary_min": 70631.65,
+      "contract_time": "full_time",
+      "salary_is_predicted": "1",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "latitude": 47.306931,
+      "company": {
+        "display_name": "Solutions by Sanford",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Stanton, Mercer County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "North Dakota", "Mercer County", "Stanton"]
+      },
+      "created": "2024-12-30T23:07:46Z",
+      "longitude": -101.387353,
+      "salary_max": 70631.65,
+      "title": "Registered Nurse",
+      "redirect_url": "https://www.adzuna.com/details/4992557426?utm_medium=api&utm_source=856de8a2"
+    },
+    {
+      "salary_min": 71528.33,
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Dickinson East Clinic Location: Dickinson, ND Address: 33 9th St W, Dickinson, ND 58601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follow…",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOW5CdjlwalY3eEdBR21RRHJPeG5MdyIsImkiOiI0OTkyNTU3ODkwIn0.Wdaa6Y7xv0_Cp-AO6MHagzYWYSjTUhUyTyi7UofvvLk",
+      "id": "4992557890",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2024-12-30T23:07:48Z",
+      "longitude": -96.935794,
+      "title": "Registered Nurse",
+      "redirect_url": "https://www.adzuna.com/details/4992557890?utm_medium=api&utm_source=856de8a2",
+      "salary_max": 71528.33,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "North Dakota", "Richland County", "Walcott"],
+        "display_name": "Walcott, Richland County"
+      },
+      "salary_is_predicted": "1",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "latitude": 46.53687
+    },
+    {
+      "latitude": 46.044809,
+      "salary_is_predicted": "1",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "location": {
+        "area": ["US", "North Dakota", "Richland County", "Fairmount"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Fairmount, Richland County"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "longitude": -96.633126,
+      "salary_max": 71992.32,
+      "title": "RN Traveler - Solutions By Sanford - Dickinson East Clinic - FT Weekdays",
+      "redirect_url": "https://www.adzuna.com/details/4992557377?utm_medium=api&utm_source=856de8a2",
+      "created": "2024-12-30T23:07:45Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOW5CdjlwalY3eEdBR21RRHJPeG5MdyIsImkiOiI0OTkyNTU3Mzc3In0.NJojWnj8i0bMjOt42D5UpRu7KGNy2dl04c-5tJYW_Bk",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "4992557377",
+      "contract_time": "full_time",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Dickinson East Clinic Location: Dickinson, ND Address: 33 9th St W, Dickinson, ND 58601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follow…",
+      "salary_min": 71992.32
+    },
+    {
+      "salary_is_predicted": "1",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 46.763527,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "location": {
+        "area": ["US", "North Dakota", "Barnes County", "Alice"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Alice, Barnes County"
+      },
+      "created": "2024-12-30T23:07:46Z",
+      "longitude": -97.681811,
+      "salary_max": 71588.11,
+      "title": "RN Traveler - Solutions By Sanford - Dickinson East Clinic - FT Weekdays",
+      "redirect_url": "https://www.adzuna.com/details/4992557532?utm_medium=api&utm_source=856de8a2",
+      "id": "4992557532",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjU1NzUzMiIsInMiOiI5bkJ2OXBqVjd4R0FHbVFEck94bkx3In0.T2eZupeF4DyTrCmHAfwcigfndIQJCJLnY_3D0soT5OI",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Dickinson East Clinic Location: Dickinson, ND Address: 33 9th St W, Dickinson, ND 58601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the follow…",
+      "salary_min": 71588.11,
+      "contract_time": "full_time"
+    },
+    {
+      "contract_time": "full_time",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Bemidji Main Clinic Location: Bemidji, MN Address: 1233 34th St NW, Bemidji, MN 56601, USA Shift: 8 Hours - Day Shifts Weekly Hours: 40.00 Starting Rate: 2875.20 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the followin…",
+      "salary_min": 77776.22,
+      "id": "5011384916",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOW5CdjlwalY3eEdBR21RRHJPeG5MdyIsImkiOiI1MDExMzg0OTE2In0.uMMQieZb0ulpQHRke1FmrGQMpSzQR35KrL2opEEq7oM",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2025-01-15T07:32:27Z",
+      "longitude": -96.562077,
+      "title": "Registered Nurse",
+      "salary_max": 77776.22,
+      "redirect_url": "https://www.adzuna.com/details/5011384916?utm_medium=api&utm_source=856de8a2",
+      "latitude": 46.87622,
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "location": {
+        "display_name": "Glyndon, Clay County",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "Minnesota", "Clay County", "Glyndon"]
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "salary_is_predicted": "1",
+      "latitude": 48.517699,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["US", "North Dakota", "Walsh County", "Hoople"],
+        "display_name": "Hoople, Walsh County"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solutions by Sanford"
+      },
+      "longitude": -97.644633,
+      "title": "Registered Nurse",
+      "redirect_url": "https://www.adzuna.com/details/4992552546?utm_medium=api&utm_source=856de8a2",
+      "salary_max": 64374.91,
+      "created": "2024-12-30T23:07:26Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOW5CdjlwalY3eEdBR21RRHJPeG5MdyIsImkiOiI0OTkyNTUyNTQ2In0.mTx7WYnxbInjbRDv7S70ZMV81Y6j1CapQnMhDHzPYK4",
+      "id": "4992552546",
+      "description": "Create Your Career With Us Join our not-for-profit organization that has provided over 100 years of housing and services to seniors with a commitment to quality care and service in a Christian environment. Facility: Bismarck Medical Center Location: Bismarck, ND Address: 300 N 7th St, Bismarck, ND 58501, USA Shift: 12 Hours - Night Shifts Weekly Hours: 36.00 Salary Range: 3010 - 3794 Department Details Experienced RNs come join the Solutions By Sanford team We are looking for RN's that meet the…",
+      "salary_min": 64374.91,
+      "contract_time": "full_time"
+    }
+  ],
+  "mean": 68636.18
+}

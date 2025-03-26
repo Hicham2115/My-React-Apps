@@ -1,0 +1,26 @@
+.Contact {
+  background-color: #3b63f5;
+  height: 70vh;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 100px;
+  border-radius: 20px;
+}
+.Contact h1 {
+  width: 50%;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+@media (min-width: 1440px) {
+  .Contact {
+    background-color: #3b63f5;
+    height: 40vh;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 20px;
+  }
+}
